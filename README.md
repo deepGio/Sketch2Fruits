@@ -4,7 +4,7 @@ Turning your sketches into pictures of fruits
 <br>
 This project aims to develop a model based on convolutional networks, capable of transforming the minimalist sketch of a fruit into a realistic image with appropriate colors and textures.  
 
-There are two main part:
+There are two main parts within the project:
 * A jupyter notebook `Sketch2Fruits.ipynb` with following pipeline:
     1. Data Loading
     2. Data Preprocessing using OpenCV functions
@@ -16,6 +16,6 @@ There are two main part:
 
 The network architecture that best fits the data is the following:
 
-![architecture](images/images/network_architecture.svg)
+![architecture](images/images/network_architecture.png)
 
 
