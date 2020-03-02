@@ -16,6 +16,6 @@ There are two main parts within the project:
 
 The network architecture that best fits the data is the following:
 
-![architecture](images/images/network_architecture.png)
+![architecture](images/network_architecture.png)
 
 
