@@ -129,9 +129,10 @@ dmypy.json
 .pyre/
 
 # idea files
-.iws
-workspace.xml
-tasks.xml
+.idea/*.iws
+.idea/workspace.xml
+.idea/tasks.xml
 
 # ipynb checkpoints
-.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
