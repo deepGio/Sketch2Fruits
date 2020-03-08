@@ -1,5 +1,8 @@
 # Sketch2Fruits
 Turning your sketches into pictures of fruits
+<br>
+
+![demo](images/sketch2fruits_demo.gif)
 
 <br>
 This project aims to develop a model based on convolutional networks, capable of transforming the minimalist sketch of a fruit into a realistic image with appropriate colors and textures.  
